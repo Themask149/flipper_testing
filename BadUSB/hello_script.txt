@@ -1,0 +1,6 @@
+GUI r
+ENTER
+STRING notepad
+ENTER
+DELAY 500
+STRING test
